@@ -1,6 +1,6 @@
-**UIDAI Aadhaar Enrolment Data Analysis & Insights
+**UIDAI Aadhaar Enrolment Data Analysis & Insights**
 
-Project Overview**
+**Project Overview**
 
 This project analyzes Aadhaar enrolment and update data released by UIDAI to uncover meaningful patterns, regional trends, and anomalies. The goal is to transform raw administrative data into clear, data-backed insights that can support policy decisions, operational improvements, and better resource planning.
 
